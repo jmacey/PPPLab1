@@ -11,7 +11,7 @@ This is a test of github so far today I have done the following
  1081  git init
  1082  ls -al .git/
  1083  git status
- 1084  touch .gitignore
+ 1084  touch .gitignore  
  1085  E .gitignore 
  1087  git add .
  1088  git status
